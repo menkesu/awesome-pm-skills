@@ -1,3 +1,5 @@
+![Awesome PM Skills Banner](images/awesome-pm-skills.jpg)
+
 # Awesome PM Skills
 
 > The most domain specific PM Builder skills for the whole product management lifecycle
@@ -11,7 +13,7 @@
 
 ## 📻 The Lenny Collection
 
-**26 AI-powered skills built from Lenny's podcast transcripts** by [Lenny Rachitsky](https://twitter.com/lennysan)
+**28 AI-powered skills built from Lenny's podcast transcripts** by [Lenny Rachitsky](https://twitter.com/lennysan)
 
 Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (Stripe/Twitter), Kevin Weil (OpenAI CPO), Dylan Field (Figma), Marty Cagan (SVPG), and 40+ world-class PMs.
 
@@ -31,70 +33,112 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 
 ---
 
-## 🚀 The Lenny Collection (26 Skills)
+## 🚀 The Lenny Collection (28 Skills)
 
-### 🏗️ BUILDER MODE (8 Skills)
+### 🏗️ BUILDER MODE (11 Skills)
 *For: Prototyping, shipping, and measuring products*
+
+[![zero-to-launch](images/zero-to-launch.png)](zero-to-launch/SKILL.md)
+[![strategic-build](images/strategic-build.png)](strategic-build/SKILL.md)
+[![continuous-discovery](images/continuous-discovery.png)](continuous-discovery/SKILL.md)
+[![design-first-dev](images/design-first-dev.png)](design-first-dev/SKILL.md)
+
+[![ai-product-patterns](images/ai-product-patterns.png)](ai-product-patterns/SKILL.md)
+[![ai-startup-building](images/ai-startup-building.png)](ai-startup-building/SKILL.md)
+[![jtbd-building](images/jtbd-building.png)](jtbd-building/SKILL.md)
+[![growth-embedded](images/growth-embedded.png)](growth-embedded/SKILL.md)
+
+[![exp-driven-dev](images/exp-driven-dev.png)](exp-driven-dev/SKILL.md)
+[![quality-speed](images/quality-speed.png)](quality-speed/SKILL.md)
+[![ship-decisions](images/ship-decisions.png)](ship-decisions/SKILL.md)
 
 1. **`zero-to-launch`** - Idea → Prototype playbook (OpenAI, Figma, Airbnb)
 2. **`strategic-build`** - LNO framework, strategic vs tactical (Shreyas, Marty Cagan)
-3. **`design-first-dev`** - Craft quality standards (Brian Chesky, Dylan Field)
-4. **`ai-product-patterns`** - AI-native development (Kevin Weil, OpenAI)
-5. **`ai-startup-building`** - AI startup playbook (Dan Shipper, Brandon Chu)
-6. **`growth-embedded`** - Growth loops and viral mechanics (YC, Elena Verna)
-7. **`exp-driven-dev`** - A/B testing and experimentation (Ronny Kohavi, Netflix)
-8. **`ship-decisions`** - When to ship vs iterate (Shreyas, Marty, Tobi)
-
-**Bonus Builder Skills:**
-- **`quality-speed`** - Balancing craft vs velocity (Dylan Field, Brian Chesky)
-- **`jtbd-building`** - Jobs-to-be-Done design (Bob Moesta)
+3. **`continuous-discovery`** - Weekly customer contact, opportunity solution trees (Teresa Torres)
+4. **`design-first-dev`** - Craft quality standards (Brian Chesky, Dylan Field)
+5. **`ai-product-patterns`** - AI-native development (Kevin Weil, OpenAI)
+6. **`ai-startup-building`** - AI startup playbook (Dan Shipper, Brandon Chu)
+7. **`jtbd-building`** - Jobs-to-be-Done design (Bob Moesta)
+8. **`growth-embedded`** - Growth loops and viral mechanics (YC, Elena Verna)
+9. **`exp-driven-dev`** - A/B testing and experimentation (Ronny Kohavi, Netflix)
+10. **`quality-speed`** - Balancing craft vs velocity (Dylan Field, Brian Chesky)
+11. **`ship-decisions`** - When to ship vs iterate (Shreyas, Marty, Tobi)
 
 ---
 
 ### 📢 COMMUNICATOR MODE (4 Skills)
 *For: Storytelling, writing, presenting, positioning*
 
-9. **`strategic-storytelling`** - Product narratives (Andy Raskin, Nancy Duarte)
-10. **`positioning-craft`** - Product positioning (April Dunford)
-11. **`exec-comms`** - Executive memos (Amazon 6-pager, Stripe format)
-12. **`confident-speaking`** - Presentations and pitches (Matt Abrahams)
+[![strategic-storytelling](images/strategic-storytelling.png)](strategic-storytelling/SKILL.md)
+[![positioning-craft](images/positioning-craft.png)](positioning-craft/SKILL.md)
+[![exec-comms](images/exec-comms.png)](exec-comms/SKILL.md)
+[![confident-speaking](images/confident-speaking.png)](confident-speaking/SKILL.md)
+
+12. **`strategic-storytelling`** - Product narratives (Andy Raskin, Nancy Duarte)
+13. **`positioning-craft`** - Product positioning (April Dunford)
+14. **`exec-comms`** - Executive memos (Amazon 6-pager, Stripe format)
+15. **`confident-speaking`** - Presentations and pitches (Matt Abrahams)
 
 ---
 
 ### 🎯 STRATEGIST MODE (4 Skills)
 *For: Decisions, prioritization, strategy, OKRs*
 
-13. **`decision-frameworks`** - Structured decisions (Annie Duke, Ben Horowitz)
-14. **`strategy-frameworks`** - Product strategy (Crossing the Chasm, Playing to Win)
-15. **`okr-frameworks`** - Goal setting (Christina Wodtke, Google OKRs)
-16. **`prioritization-craft`** - Feature prioritization (Shreyas, RICE framework)
+[![decision-frameworks](images/decision-frameworks.png)](decision-frameworks/SKILL.md)
+[![strategy-frameworks](images/strategy-frameworks.png)](strategy-frameworks/SKILL.md)
+[![okr-frameworks](images/okr-frameworks.png)](okr-frameworks/SKILL.md)
+[![prioritization-craft](images/prioritization-craft.png)](prioritization-craft/SKILL.md)
+
+16. **`decision-frameworks`** - Structured decisions (Annie Duke, Ben Horowitz)
+17. **`strategy-frameworks`** - Product strategy (Crossing the Chasm, Playing to Win)
+18. **`okr-frameworks`** - Goal setting (Christina Wodtke, Google OKRs)
+19. **`prioritization-craft`** - Feature prioritization (Shreyas, RICE framework)
 
 ---
 
 ### 🤝 NAVIGATOR MODE (3 Skills)
 *For: Influence, stakeholders, politics, getting things done*
 
-17. **`influence-craft`** - Power and influence (Jeffrey Pfeffer)
-18. **`stakeholder-craft`** - Feedback and relationships (Kim Scott, Carole Robin)
-19. **`workplace-navigation`** - Difficult colleagues (Anneka Gupta)
+[![influence-craft](images/influence-craft.png)](influence-craft/SKILL.md)
+[![stakeholder-craft](images/stakeholder-craft.png)](stakeholder-craft/SKILL.md)
+[![workplace-navigation](images/workplace-navigation.png)](workplace-navigation/SKILL.md)
+
+20. **`influence-craft`** - Power and influence (Jeffrey Pfeffer)
+21. **`stakeholder-craft`** - Feedback and relationships (Kim Scott, Carole Robin)
+22. **`workplace-navigation`** - Difficult colleagues (Anneka Gupta)
 
 ---
 
 ### 👥 LEADER MODE (3 Skills)
 *For: Team building, culture, career growth*
 
-20. **`culture-craft`** - Building excellence (David Singleton - Stripe, Dharmesh Shah)
-21. **`career-growth`** - PM career advancement (Ami Vora, 40+ career episodes)
-22. **`strategic-pm`** - Becoming strategic (Anneka Gupta)
+[![culture-craft](images/culture-craft.png)](culture-craft/SKILL.md)
+[![career-growth](images/career-growth.png)](career-growth/SKILL.md)
+[![strategic-pm](images/strategic-pm.png)](strategic-pm/SKILL.md)
+
+23. **`culture-craft`** - Building excellence (David Singleton - Stripe, Dharmesh Shah)
+24. **`career-growth`** - PM career advancement (Ami Vora, 40+ career episodes)
+25. **`strategic-pm`** - Becoming strategic (Anneka Gupta)
 
 ---
 
-### 📊 MEASUREMENT MODE (4 Skills)
+### 📊 MEASUREMENT MODE (2 Skills)
 *For: Metrics, experiments, feedback*
 
-23. **`metrics-frameworks`** - North Star, AARRR (Lenny's frameworks, Meta)
-24. **`user-feedback-system`** - PMF measurement (Superhuman, YC)
-25. **`launch-execution`** - Go-to-market (April Dunford, Brian Chesky)
+[![metrics-frameworks](images/metrics-frameworks.png)](metrics-frameworks/SKILL.md)
+[![user-feedback-system](images/user-feedback-system.png)](user-feedback-system/SKILL.md)
+
+26. **`metrics-frameworks`** - North Star, AARRR (Lenny's frameworks, Meta)
+27. **`user-feedback-system`** - PMF measurement (Superhuman, YC)
+
+---
+
+### 🚀 LAUNCH MODE (1 Skill)
+*For: Go-to-market and launch execution*
+
+[![launch-execution](images/launch-execution.png)](launch-execution/SKILL.md)
+
+28. **`launch-execution`** - Go-to-market (April Dunford, Brian Chesky)
 
 ---
 
@@ -105,8 +149,8 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 **Simply tell your AI assistant what you're working on, and it will activate the relevant skills:**
 
 ```
-"I'm starting a new AI feature" 
-→ zero-to-launch, ai-product-patterns, strategic-build
+"I'm starting a new AI feature"
+→ zero-to-launch, continuous-discovery, ai-product-patterns, strategic-build
 
 "I need to present to executives"
 → exec-comms, strategic-storytelling, confident-speaking
@@ -115,7 +159,7 @@ Featuring wisdom from 300+ episodes with Brian Chesky (Airbnb), Shreyas Doshi (S
 → prioritization-craft, decision-frameworks, strategy-frameworks
 
 "I'm measuring product-market fit"
-→ user-feedback-system, metrics-frameworks, exp-driven-dev
+→ user-feedback-system, continuous-discovery, metrics-frameworks, exp-driven-dev
 
 "I'm dealing with difficult stakeholders"
 → stakeholder-craft, influence-craft, workplace-navigation
@@ -164,6 +208,7 @@ Top guests by viewership:
 - Kevin Weil (OpenAI CPO) - 202K views
 - Dylan Field (Figma) - 199K views
 - Jeffrey Pfeffer (Stanford Power Expert) - 161K views
+- Teresa Torres (Continuous Discovery) - Product Talk
 
 ### 2. **Active, Not Passive**
 
@@ -195,6 +240,7 @@ Perfect for PMs who:
 When building features, these skills help you:
 - Scope MVP correctly (zero-to-launch)
 - Make strategic build decisions (strategic-build)
+- Discover customer needs weekly (continuous-discovery)
 - Apply craft standards (design-first-dev)
 - Integrate AI intelligently (ai-product-patterns)
 - Build growth loops (growth-embedded)
@@ -235,6 +281,7 @@ When building teams and advancing your career:
 1. **Start with Wave 1 (Core Builder Skills):**
    - `zero-to-launch` - For starting any new feature
    - `strategic-build` - For deciding what to build
+   - `continuous-discovery` - For weekly customer contact
    - `design-first-dev` - For craft quality
    - `ship-decisions` - For shipping with confidence
 

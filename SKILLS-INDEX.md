@@ -1,6 +1,8 @@
+![Awesome PM Skills Banner](images/awesome-pm-skills.jpg)
+
 # Awesome PM Skills - Complete Index
 
-**The Lenny Collection: 26 Active Skills | 5 Modes | 300+ Episodes | 783K+ Views**
+**The Lenny Collection: 28 Active Skills | 6 Modes | 300+ Episodes | 783K+ Views**
 
 > **📻 Built from [Lenny's Podcast](https://www.lennyspodcast.com/) by [Lenny Rachitsky](https://twitter.com/lennysan)**  
 > Curated by [Udi Menkes](https://linkedin.com/in/udimenkes) | [GenAI PM](https://genaipm.com)  
@@ -8,85 +10,124 @@
 
 ---
 
-## 🏗️ BUILDER MODE (10 Skills)
+## 🏗️ BUILDER MODE (11 Skills)
 *Active building companions for coding with Claude/Cursor*
+
+[![zero-to-launch](images/zero-to-launch.png)](zero-to-launch/SKILL.md)
+[![strategic-build](images/strategic-build.png)](strategic-build/SKILL.md)
+[![continuous-discovery](images/continuous-discovery.png)](continuous-discovery/SKILL.md)
+[![design-first-dev](images/design-first-dev.png)](design-first-dev/SKILL.md)
+
+[![ai-product-patterns](images/ai-product-patterns.png)](ai-product-patterns/SKILL.md)
+[![ai-startup-building](images/ai-startup-building.png)](ai-startup-building/SKILL.md)
+[![jtbd-building](images/jtbd-building.png)](jtbd-building/SKILL.md)
+[![growth-embedded](images/growth-embedded.png)](growth-embedded/SKILL.md)
+
+[![exp-driven-dev](images/exp-driven-dev.png)](exp-driven-dev/SKILL.md)
+[![quality-speed](images/quality-speed.png)](quality-speed/SKILL.md)
+[![ship-decisions](images/ship-decisions.png)](ship-decisions/SKILL.md)
 
 | # | Skill | Use When | Based On | Views |
 |---|-------|----------|----------|-------|
 | 1 | **[zero-to-launch](zero-to-launch/SKILL.md)** | Starting new features, MVP scoping | Kevin Weil (OpenAI), Dylan Field (Figma), Brian Chesky (Airbnb) | 783K |
 | 2 | **[strategic-build](strategic-build/SKILL.md)** | Deciding what to build, LNO framework | Shreyas Doshi, Marty Cagan | 486K |
-| 3 | **[design-first-dev](design-first-dev/SKILL.md)** | Building user-facing features, craft standards | Brian Chesky, Dylan Field, Katie Dill | 580K |
-| 4 | **[ai-product-patterns](ai-product-patterns/SKILL.md)** | Integrating AI features, evals as specs | Kevin Weil (OpenAI CPO) | 202K |
-| 5 | **[ai-startup-building](ai-startup-building/SKILL.md)** | AI-native products, prompt engineering | Dan Shipper, Brandon Chu | 198K |
-| 6 | **[jtbd-building](jtbd-building/SKILL.md)** | Understanding customer jobs, design thinking | Bob Moesta (JTBD co-creator) | 69K |
-| 7 | **[growth-embedded](growth-embedded/SKILL.md)** | Adding viral mechanics, growth loops | Gustaf Alstromer (YC), Elena Verna | 129K+ |
-| 8 | **[exp-driven-dev](exp-driven-dev/SKILL.md)** | A/B testing, feature flags, experiments | Ronny Kohavi, Netflix culture | - |
-| 9 | **[quality-speed](quality-speed/SKILL.md)** | Balancing craft vs velocity | Dylan Field, Brian Chesky | 580K |
-| 10 | **[ship-decisions](ship-decisions/SKILL.md)** | Deciding when to ship | Shreyas Doshi, Marty Cagan, Tobi Lutke | 486K+ |
+| 3 | **[continuous-discovery](continuous-discovery/SKILL.md)** | Weekly customer contact, opportunity solution trees | Teresa Torres (Product Talk) | - |
+| 4 | **[design-first-dev](design-first-dev/SKILL.md)** | Building user-facing features, craft standards | Brian Chesky, Dylan Field, Katie Dill | 580K |
+| 5 | **[ai-product-patterns](ai-product-patterns/SKILL.md)** | Integrating AI features, evals as specs | Kevin Weil (OpenAI CPO) | 202K |
+| 6 | **[ai-startup-building](ai-startup-building/SKILL.md)** | AI-native products, prompt engineering | Dan Shipper, Brandon Chu | 198K |
+| 7 | **[jtbd-building](jtbd-building/SKILL.md)** | Understanding customer jobs, design thinking | Bob Moesta (JTBD co-creator) | 69K |
+| 8 | **[growth-embedded](growth-embedded/SKILL.md)** | Adding viral mechanics, growth loops | Gustaf Alstromer (YC), Elena Verna | 129K+ |
+| 9 | **[exp-driven-dev](exp-driven-dev/SKILL.md)** | A/B testing, feature flags, experiments | Ronny Kohavi, Netflix culture | - |
+| 10 | **[quality-speed](quality-speed/SKILL.md)** | Balancing craft vs velocity | Dylan Field, Brian Chesky | 580K |
+| 11 | **[ship-decisions](ship-decisions/SKILL.md)** | Deciding when to ship | Shreyas Doshi, Marty Cagan, Tobi Lutke | 486K+ |
 
 ---
 
 ## 📢 COMMUNICATOR MODE (4 Skills)
 *Storytelling, positioning, and executive communication*
 
+[![strategic-storytelling](images/strategic-storytelling.png)](strategic-storytelling/SKILL.md)
+[![positioning-craft](images/positioning-craft.png)](positioning-craft/SKILL.md)
+[![exec-comms](images/exec-comms.png)](exec-comms/SKILL.md)
+[![confident-speaking](images/confident-speaking.png)](confident-speaking/SKILL.md)
+
 | # | Skill | Use When | Based On | Views |
 |---|-------|----------|----------|-------|
-| 11 | **[strategic-storytelling](strategic-storytelling/SKILL.md)** | Crafting product narratives, pitches | Andy Raskin, Nancy Duarte | 18K+ |
-| 12 | **[positioning-craft](positioning-craft/SKILL.md)** | Product positioning, differentiation | April Dunford | 95K |
-| 13 | **[exec-comms](exec-comms/SKILL.md)** | Executive memos, board updates | Amazon 6-pager, Stripe format | - |
-| 14 | **[confident-speaking](confident-speaking/SKILL.md)** | Presentations, pitches | Matt Abrahams (Stanford) | 52K |
+| 12 | **[strategic-storytelling](strategic-storytelling/SKILL.md)** | Crafting product narratives, pitches | Andy Raskin, Nancy Duarte | 18K+ |
+| 13 | **[positioning-craft](positioning-craft/SKILL.md)** | Product positioning, differentiation | April Dunford | 95K |
+| 14 | **[exec-comms](exec-comms/SKILL.md)** | Executive memos, board updates | Amazon 6-pager, Stripe format | - |
+| 15 | **[confident-speaking](confident-speaking/SKILL.md)** | Presentations, pitches | Matt Abrahams (Stanford) | 52K |
 
 ---
 
 ## 🎯 STRATEGIST MODE (4 Skills)
 *Strategic decision-making and planning*
 
+[![decision-frameworks](images/decision-frameworks.png)](decision-frameworks/SKILL.md)
+[![strategy-frameworks](images/strategy-frameworks.png)](strategy-frameworks/SKILL.md)
+[![okr-frameworks](images/okr-frameworks.png)](okr-frameworks/SKILL.md)
+[![prioritization-craft](images/prioritization-craft.png)](prioritization-craft/SKILL.md)
+
 | # | Skill | Use When | Based On | Views |
 |---|-------|----------|----------|-------|
-| 15 | **[decision-frameworks](decision-frameworks/SKILL.md)** | Making difficult decisions | Annie Duke, Ben Horowitz | 143K |
-| 16 | **[strategy-frameworks](strategy-frameworks/SKILL.md)** | Creating product strategy | Geoffrey Moore, Playing to Win | - |
-| 17 | **[okr-frameworks](okr-frameworks/SKILL.md)** | Setting goals, OKRs | Christina Wodtke (OKR expert) | 33K |
-| 18 | **[prioritization-craft](prioritization-craft/SKILL.md)** | Feature prioritization, RICE | Shreyas Doshi, Intercom | 260K+ |
+| 16 | **[decision-frameworks](decision-frameworks/SKILL.md)** | Making difficult decisions | Annie Duke, Ben Horowitz | 143K |
+| 17 | **[strategy-frameworks](strategy-frameworks/SKILL.md)** | Creating product strategy | Geoffrey Moore, Playing to Win | - |
+| 18 | **[okr-frameworks](okr-frameworks/SKILL.md)** | Setting goals, OKRs | Christina Wodtke (OKR expert) | 33K |
+| 19 | **[prioritization-craft](prioritization-craft/SKILL.md)** | Feature prioritization, RICE | Shreyas Doshi, Intercom | 260K+ |
 
 ---
 
 ## 🤝 NAVIGATOR MODE (3 Skills)
 *Organizational navigation and influence*
 
+[![influence-craft](images/influence-craft.png)](influence-craft/SKILL.md)
+[![stakeholder-craft](images/stakeholder-craft.png)](stakeholder-craft/SKILL.md)
+[![workplace-navigation](images/workplace-navigation.png)](workplace-navigation/SKILL.md)
+
 | # | Skill | Use When | Based On | Views |
 |---|-------|----------|----------|-------|
-| 19 | **[influence-craft](influence-craft/SKILL.md)** | Building influence, getting buy-in | Jeffrey Pfeffer (Stanford power expert) | 161K |
-| 20 | **[stakeholder-craft](stakeholder-craft/SKILL.md)** | Managing stakeholders, feedback | Kim Scott (Radical Candor), Carole Robin | - |
-| 21 | **[workplace-navigation](workplace-navigation/SKILL.md)** | Handling difficult colleagues | Anneka Gupta | 78K |
+| 20 | **[influence-craft](influence-craft/SKILL.md)** | Building influence, getting buy-in | Jeffrey Pfeffer (Stanford power expert) | 161K |
+| 21 | **[stakeholder-craft](stakeholder-craft/SKILL.md)** | Managing stakeholders, feedback | Kim Scott (Radical Candor), Carole Robin | - |
+| 22 | **[workplace-navigation](workplace-navigation/SKILL.md)** | Handling difficult colleagues | Anneka Gupta | 78K |
 
 ---
 
 ## 👥 LEADER MODE (3 Skills)
 *Team building and career growth*
 
+[![culture-craft](images/culture-craft.png)](culture-craft/SKILL.md)
+[![career-growth](images/career-growth.png)](career-growth/SKILL.md)
+[![strategic-pm](images/strategic-pm.png)](strategic-pm/SKILL.md)
+
 | # | Skill | Use When | Based On | Views |
 |---|-------|----------|----------|-------|
-| 22 | **[culture-craft](culture-craft/SKILL.md)** | Building team culture | David Singleton (Stripe), Dharmesh Shah (HubSpot) | 112K |
-| 23 | **[career-growth](career-growth/SKILL.md)** | Planning promotions, career advancement | Ami Vora, 40+ career episodes | - |
-| 24 | **[strategic-pm](strategic-pm/SKILL.md)** | Becoming more strategic | Anneka Gupta | 78K |
+| 23 | **[culture-craft](culture-craft/SKILL.md)** | Building team culture | David Singleton (Stripe), Dharmesh Shah (HubSpot) | 112K |
+| 24 | **[career-growth](career-growth/SKILL.md)** | Planning promotions, career advancement | Ami Vora, 40+ career episodes | - |
+| 25 | **[strategic-pm](strategic-pm/SKILL.md)** | Becoming more strategic | Anneka Gupta | 78K |
 
 ---
 
 ## 📊 MEASUREMENT MODE (2 Skills)
 *Metrics, feedback, and measurement*
 
+[![metrics-frameworks](images/metrics-frameworks.png)](metrics-frameworks/SKILL.md)
+[![user-feedback-system](images/user-feedback-system.png)](user-feedback-system/SKILL.md)
+
 | # | Skill | Use When | Based On | Views |
 |---|-------|----------|----------|-------|
-| 25 | **[metrics-frameworks](metrics-frameworks/SKILL.md)** | Choosing metrics, dashboards | North Star framework, AARRR | - |
-| 26 | **[user-feedback-system](user-feedback-system/SKILL.md)** | PMF measurement, user research | Superhuman PMF survey, YC | - |
+| 26 | **[metrics-frameworks](metrics-frameworks/SKILL.md)** | Choosing metrics, dashboards | North Star framework, AARRR | - |
+| 27 | **[user-feedback-system](user-feedback-system/SKILL.md)** | PMF measurement, user research | Superhuman PMF survey, YC | - |
 
 ---
 
-## 🚀 BONUS: Launch Support
+## 🚀 LAUNCH MODE (1 Skill)
+*Go-to-market and launch execution*
+
+[![launch-execution](images/launch-execution.png)](launch-execution/SKILL.md)
 
 | # | Skill | Use When | Based On | Views |
 |---|-------|----------|----------|-------|
-| 27 | **[launch-execution](launch-execution/SKILL.md)** | Launching features, GTM | April Dunford, Brian Chesky | 476K |
+| 28 | **[launch-execution](launch-execution/SKILL.md)** | Launching features, GTM | April Dunford, Brian Chesky | 476K |
 
 ---
 
@@ -95,7 +136,7 @@
 ### "I need to..."
 
 **...build a new feature**
-→ Start with: `zero-to-launch`, `design-first-dev`, `ai-product-patterns`
+→ Start with: `zero-to-launch`, `continuous-discovery`, `design-first-dev`, `ai-product-patterns`
 
 **...make strategic decisions**
 → Use: `strategic-build`, `decision-frameworks`, `strategy-frameworks`
@@ -280,7 +321,7 @@ strategy   culture   influence   career
 
 ## 🎉 You Now Have
 
-- ✅ 26 world-class PM skills
+- ✅ 28 world-class PM skills
 - ✅ Wisdom from 300+ podcast episodes
 - ✅ Insights from 783K+ views worth of content
 - ✅ Frameworks from top companies (Airbnb, OpenAI, Figma, Stripe, Netflix, Meta, YC)

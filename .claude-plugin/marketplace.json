@@ -1,0 +1,320 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "awesome-pm-skills",
+  "version": "1.0.0",
+  "description": "28 AI-powered PM skills built from 300+ Lenny's Podcast episodes featuring Brian Chesky, Shreyas Doshi, Kevin Weil, Marty Cagan, and 40+ world-class PMs. Curated by Udi Menkes.",
+  "owner": {
+    "name": "Udi Menkes",
+    "email": "udi@menkes.dev"
+  },
+  "plugins": [
+    {
+      "name": "zero-to-launch",
+      "description": "Guides from idea to working prototype using frameworks from OpenAI, Figma, and Airbnb. AI-first thinking (Kevin Weil), simplicity forcing functions (Dylan Field), and complete experience design (Brian Chesky).",
+      "version": "1.0.0",
+      "source": "./zero-to-launch",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "prototype", "mvp", "openai", "figma", "airbnb"],
+      "skills": ["./zero-to-launch"]
+    },
+    {
+      "name": "strategic-build",
+      "description": "Distinguishes strategic vs tactical work using Shreyas Doshi's LNO framework (Leverage, Neutral, Overhead) and Marty Cagan's empowered teams principles. Prevents feature factory and product theater.",
+      "version": "1.0.0",
+      "source": "./strategic-build",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "strategy", "lno-framework", "shreyas-doshi", "marty-cagan"],
+      "skills": ["./strategic-build"]
+    },
+    {
+      "name": "continuous-discovery",
+      "description": "Implements Teresa Torres' continuous discovery habits for weekly customer contact, opportunity solution trees, and assumption testing. Establishes product trio workflows.",
+      "version": "1.0.0",
+      "source": "./continuous-discovery",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "discovery", "user-research", "teresa-torres"],
+      "skills": ["./continuous-discovery"]
+    },
+    {
+      "name": "design-first-dev",
+      "description": "Follows Airbnb's design-led development and Figma's craft quality standards. Guides when to move fast vs when quality creates moats. Based on Brian Chesky and Dylan Field's craft philosophy.",
+      "version": "1.0.0",
+      "source": "./design-first-dev",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "design", "craft", "ux", "airbnb", "figma"],
+      "skills": ["./design-first-dev"]
+    },
+    {
+      "name": "ai-product-patterns",
+      "description": "Builds AI-native products using OpenAI's development philosophy and modern AI UX patterns. Evals as product specs, hybrid approaches, and cost optimization. Based on Kevin Weil (OpenAI CPO).",
+      "version": "1.0.0",
+      "source": "./ai-product-patterns",
+      "strict": false,
+      "category": "development",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "ai", "machine-learning", "openai", "evals"],
+      "skills": ["./ai-product-patterns"]
+    },
+    {
+      "name": "ai-startup-building",
+      "description": "Builds AI-native products using Dan Shipper's 5-product playbook and Brandon Chu's AI product frameworks. Prompt engineering, AI-native UX, scaling, and cost optimization for 2025+ best practices.",
+      "version": "1.0.0",
+      "source": "./ai-startup-building",
+      "strict": false,
+      "category": "development",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "ai", "startup", "dan-shipper", "brandon-chu"],
+      "skills": ["./ai-startup-building"]
+    },
+    {
+      "name": "jtbd-building",
+      "description": "Builds features based on Jobs-to-be-Done theory using Bob Moesta's frameworks. Identifies customer jobs, understands push/pull forces, and uncovers hidden needs beyond stated feature requests.",
+      "version": "1.0.0",
+      "source": "./jtbd-building",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "jtbd", "jobs-to-be-done", "bob-moesta"],
+      "skills": ["./jtbd-building"]
+    },
+    {
+      "name": "growth-embedded",
+      "description": "Builds growth loops into products from day 1 using YC playbook (Gustaf Alstromer), Casey Winters' growth frameworks, and Elena Verna's retention-first approach.",
+      "version": "1.0.0",
+      "source": "./growth-embedded",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "growth", "retention", "viral", "yc"],
+      "skills": ["./growth-embedded"]
+    },
+    {
+      "name": "exp-driven-dev",
+      "description": "Builds features with A/B testing in mind using Ronny Kohavi's frameworks and Netflix/Airbnb experimentation culture. Feature flags, guardrail metrics, and statistical significance.",
+      "version": "1.0.0",
+      "source": "./exp-driven-dev",
+      "strict": false,
+      "category": "development",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "experimentation", "ab-testing", "feature-flags", "netflix"],
+      "skills": ["./exp-driven-dev"]
+    },
+    {
+      "name": "quality-speed",
+      "description": "Decides when quality matters vs move fast, based on Dylan Field (Figma) craft philosophy and Brian Chesky (Airbnb) details obsession. Identifies which details create moats vs which to skip.",
+      "version": "1.0.0",
+      "source": "./quality-speed",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "quality", "speed", "craft", "figma", "airbnb"],
+      "skills": ["./quality-speed"]
+    },
+    {
+      "name": "ship-decisions",
+      "description": "Guides ship-or-iterate decisions using Shreyas Doshi's frameworks, Marty Cagan's shipping philosophy, and Tobi Lutke's reversible decision-making. One-way vs two-way door thinking.",
+      "version": "1.0.0",
+      "source": "./ship-decisions",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "builder", "shipping", "decisions", "shreyas-doshi", "tobi-lutke"],
+      "skills": ["./ship-decisions"]
+    },
+    {
+      "name": "strategic-storytelling",
+      "description": "Crafts product narratives using Andy Raskin's strategic narrative structure and Nancy Duarte's presentation frameworks. For pitches, presentations, and compelling product narratives.",
+      "version": "1.0.0",
+      "source": "./strategic-storytelling",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "communicator", "storytelling", "narrative", "presentation", "andy-raskin"],
+      "skills": ["./strategic-storytelling"]
+    },
+    {
+      "name": "positioning-craft",
+      "description": "Crafts product positioning using April Dunford's 5-component framework from Obviously Awesome. Defines target customers, categories, alternatives, and differentiated value.",
+      "version": "1.0.0",
+      "source": "./positioning-craft",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "communicator", "positioning", "marketing", "april-dunford"],
+      "skills": ["./positioning-craft"]
+    },
+    {
+      "name": "exec-comms",
+      "description": "Drafts executive memos and stakeholder communications using Amazon's 6-pager structure, Stripe's memo format, and SCQA framework. For board updates and strategic documents.",
+      "version": "1.0.0",
+      "source": "./exec-comms",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "communicator", "executive", "memos", "amazon", "stripe"],
+      "skills": ["./exec-comms"]
+    },
+    {
+      "name": "confident-speaking",
+      "description": "Structures presentations and verbal pitches using Matt Abrahams' WHAT-SO WHAT-NOW WHAT framework and impromptu speaking techniques. For presentations and difficult conversations.",
+      "version": "1.0.0",
+      "source": "./confident-speaking",
+      "strict": false,
+      "category": "learning",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "communicator", "speaking", "presentation", "matt-abrahams"],
+      "skills": ["./confident-speaking"]
+    },
+    {
+      "name": "decision-frameworks",
+      "description": "Structures difficult decisions using Annie Duke's probabilistic thinking and Ben Horowitz's hard decisions frameworks. Expected value thinking, regret minimization, and pre-mortems.",
+      "version": "1.0.0",
+      "source": "./decision-frameworks",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "strategist", "decisions", "probability", "annie-duke", "ben-horowitz"],
+      "skills": ["./decision-frameworks"]
+    },
+    {
+      "name": "strategy-frameworks",
+      "description": "Creates product strategies using Crossing the Chasm, Playing to Win, and strategic canvas frameworks. Defines where to play and how to win, and connects tactics to strategy.",
+      "version": "1.0.0",
+      "source": "./strategy-frameworks",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "strategist", "strategy", "crossing-the-chasm", "playing-to-win"],
+      "skills": ["./strategy-frameworks"]
+    },
+    {
+      "name": "okr-frameworks",
+      "description": "Writes effective OKRs using Christina Wodtke's best practices and Google's OKR methodology. For goal setting, team alignment, measurement frameworks, and quarterly tracking.",
+      "version": "1.0.0",
+      "source": "./okr-frameworks",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "strategist", "okrs", "goals", "christina-wodtke", "google"],
+      "skills": ["./okr-frameworks"]
+    },
+    {
+      "name": "prioritization-craft",
+      "description": "Applies RICE, ICE, Value vs Effort, and Kano model prioritization frameworks. For feature prioritization, backlog management, and tradeoffs. Based on Shreyas Doshi and Intercom frameworks.",
+      "version": "1.0.0",
+      "source": "./prioritization-craft",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "strategist", "prioritization", "rice", "kano", "shreyas-doshi"],
+      "skills": ["./prioritization-craft"]
+    },
+    {
+      "name": "influence-craft",
+      "description": "Maps organizational power dynamics and builds influence without authority using Jeffrey Pfeffer's power frameworks. For getting buy-in, navigating politics, and building coalitions.",
+      "version": "1.0.0",
+      "source": "./influence-craft",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "navigator", "influence", "power", "politics", "jeffrey-pfeffer"],
+      "skills": ["./influence-craft"]
+    },
+    {
+      "name": "stakeholder-craft",
+      "description": "Manages stakeholder relationships using Kim Scott's Radical Candor and Carole Robin's interpersonal dynamics. For giving/receiving feedback and building trust across teams.",
+      "version": "1.0.0",
+      "source": "./stakeholder-craft",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "navigator", "stakeholders", "feedback", "radical-candor", "kim-scott"],
+      "skills": ["./stakeholder-craft"]
+    },
+    {
+      "name": "workplace-navigation",
+      "description": "Handles difficult colleagues and resolves conflicts using frameworks from Anneka Gupta and workplace dynamics research. For blocking colleagues, toxic dynamics, and maintaining relationships.",
+      "version": "1.0.0",
+      "source": "./workplace-navigation",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "navigator", "workplace", "conflict-resolution", "anneka-gupta"],
+      "skills": ["./workplace-navigation"]
+    },
+    {
+      "name": "culture-craft",
+      "description": "Designs team culture and sets standards of excellence using David Singleton (Stripe) and Dharmesh Shah (HubSpot) frameworks. For building teams, values, rituals, and excellence standards.",
+      "version": "1.0.0",
+      "source": "./culture-craft",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "leader", "culture", "teams", "stripe", "hubspot"],
+      "skills": ["./culture-craft"]
+    },
+    {
+      "name": "career-growth",
+      "description": "Plans PM career growth using frameworks from 40+ career episodes and Ami Vora's advancement strategies. For promotions, skill gaps, career transitions, and IC vs management paths.",
+      "version": "1.0.0",
+      "source": "./career-growth",
+      "strict": false,
+      "category": "learning",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "leader", "career", "growth", "promotions", "ami-vora"],
+      "skills": ["./career-growth"]
+    },
+    {
+      "name": "strategic-pm",
+      "description": "Shifts thinking from tactical to strategic using Anneka Gupta's frameworks. For escaping feature factory, moving from output to outcomes, and communicating strategic value.",
+      "version": "1.0.0",
+      "source": "./strategic-pm",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "leader", "strategic-thinking", "outcomes", "anneka-gupta"],
+      "skills": ["./strategic-pm"]
+    },
+    {
+      "name": "metrics-frameworks",
+      "description": "Defines right metrics using North Star framework, AARRR, and leading vs lagging indicators. For choosing metrics, instrumenting products, and distinguishing vanity vs actionable metrics.",
+      "version": "1.0.0",
+      "source": "./metrics-frameworks",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "measurement", "metrics", "north-star", "aarrr", "analytics"],
+      "skills": ["./metrics-frameworks"]
+    },
+    {
+      "name": "user-feedback-system",
+      "description": "Builds feedback collection systems using Superhuman's PMF framework and YC's talk-to-users methodology. For NPS surveys, user interviews, and measuring product-market fit.",
+      "version": "1.0.0",
+      "source": "./user-feedback-system",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "measurement", "feedback", "pmf", "superhuman", "yc"],
+      "skills": ["./user-feedback-system"]
+    },
+    {
+      "name": "launch-execution",
+      "description": "Writes launch copy, positions products, and creates go-to-market materials using April Dunford's positioning framework and Airbnb's product marketing approach.",
+      "version": "1.0.0",
+      "source": "./launch-execution",
+      "strict": false,
+      "category": "productivity",
+      "license": "MIT",
+      "keywords": ["pm", "product-management", "launch", "go-to-market", "gtm", "april-dunford", "airbnb"],
+      "skills": ["./launch-execution"]
+    }
+  ]
+}

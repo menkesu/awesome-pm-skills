@@ -276,6 +276,62 @@ When building teams and advancing your career:
 
 ## 🎯 Getting Started
 
+### Option 1: Claude Code Marketplace (Recommended)
+
+The fastest way to install these skills is through the **Claude Code Marketplace**. This lets you browse, install, and manage skills directly from Claude Code.
+
+**Install the full collection:**
+
+```bash
+claude plugin marketplace add menkesu/awesome-pm-skills
+```
+
+**Install individual skills:**
+
+```bash
+# Install a specific skill
+claude plugin install zero-to-launch@awesome-pm-skills
+claude plugin install strategic-build@awesome-pm-skills
+claude plugin install ai-product-patterns@awesome-pm-skills
+
+# Install multiple skills at once
+claude plugin install zero-to-launch@awesome-pm-skills strategic-build@awesome-pm-skills continuous-discovery@awesome-pm-skills
+```
+
+**Browse available skills:**
+
+```bash
+# List all skills in this collection
+claude plugin marketplace search awesome-pm-skills
+
+# Search by keyword
+claude plugin marketplace search "product management"
+claude plugin marketplace search "ai product"
+```
+
+**Manage installed skills:**
+
+```bash
+# List installed skills
+claude plugin list
+
+# Remove a skill
+claude plugin remove zero-to-launch@awesome-pm-skills
+
+# Update all skills to latest version
+claude plugin update awesome-pm-skills
+```
+
+### Option 2: Manual Installation (Clone)
+
+```bash
+git clone https://github.com/menkesu/awesome-pm-skills.git
+cd awesome-pm-skills
+# Skills are now available in your AI assistant
+```
+
+---
+
 ### For New Users:
 
 1. **Start with Wave 1 (Core Builder Skills):**
@@ -411,15 +467,22 @@ For the PM community, from the PM community.
 
 ## 🚀 Get Started Now
 
-1. Clone this repo into your Cursor/Claude Code workspace
-2. Skills auto-activate based on your context
-3. Start building with world-class PM guidance
+### Via Claude Code Marketplace (Recommended)
 
 ```bash
-git clone [your-repo-url]
-cd skills/lenny-pm-skills
+# Install all 28 PM skills in one command
+claude plugin marketplace add menkesu/awesome-pm-skills
+```
+
+### Via Git Clone
+
+```bash
+git clone https://github.com/menkesu/awesome-pm-skills.git
+cd awesome-pm-skills
 # Skills are now available in your AI assistant
 ```
+
+Once installed, skills auto-activate based on your context — just start building and your AI assistant will apply the right PM frameworks automatically.
 
 ---
 

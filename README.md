@@ -379,6 +379,8 @@ Each skill includes:
 
 ---
 
+- [Skill Hub](https://skill.442595.xyz/) — 5800+ curated AI Agent Skills for Claude Code, Codex, Cursor, Hermes & more across 22 categories.
+
 ## 🤝 Contributing
 
 These skills are based on publicly available content from Lenny's Podcast. The transcripts are from [ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts).

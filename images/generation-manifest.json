@@ -1,0 +1,284 @@
+{
+  "generator": "Built-in image_gen tool (model selection is managed by the tool)",
+  "date": "2026-10-06",
+  "requested_size": "1536x2048",
+  "aspect_ratio": "3:4",
+  "cards": [
+    {
+      "skill": "agent-workflow",
+      "path": "../skills/agent-workflow/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Claire Vo on the left, Boris Cherny in the center, Aishwarya Naresh Reganti on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Claire Vo, photo 2 = Boris Cherny, photo 3 = Aishwarya Naresh Reganti. Under each person, their name in small neat dark-brown hand lettering: \"Claire Vo\", \"Boris Cherny\", \"Aishwarya Naresh Reganti\". Above the three people, the title \"agent-workflow\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: three small friendly robots working side by side at a long desk, passing a baton. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/agent-workflow.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "ai-product-bets",
+      "path": "../skills/ai-product-bets/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Nick Turley on the left, Kevin Weil in the center, Dianne Penn on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Nick Turley, photo 2 = Kevin Weil, photo 3 = Dianne Penn. Under each person, their name in small neat dark-brown hand lettering: \"Nick Turley\", \"Kevin Weil\", \"Dianne Penn\". Above the three people, the title \"ai-product-bets\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a rising staircase of model chips with a small flag at the top. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/ai-product-bets.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "ai-prototype",
+      "path": "../skills/ai-prototype/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Lazar Jovanovic on the left, Zevi Arnovitz in the center, Guillermo Rauch on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Lazar Jovanovic, photo 2 = Zevi Arnovitz, photo 3 = Guillermo Rauch. Under each person, their name in small neat dark-brown hand lettering: \"Lazar Jovanovic\", \"Zevi Arnovitz\", \"Guillermo Rauch\". Above the three people, the title \"ai-prototype\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a paper sketch of an app screen turning into a glowing phone screen. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/ai-prototype.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "b2b-sales",
+      "path": "../skills/b2b-sales/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Jen Abel on the left, Geoffrey Moore in the center, Pete Kazanjy on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Jen Abel, photo 2 = Geoffrey Moore, photo 3 = Pete Kazanjy. Under each person, their name in small neat dark-brown hand lettering: \"Jen Abel\", \"Geoffrey Moore\", \"Pete Kazanjy\". Above the three people, the title \"b2b-sales\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a handshake over an open notebook with a small pipeline sketch. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/b2b-sales.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "career",
+      "path": "../skills/career/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Phyl Terry on the left, Nikhyl Singhal in the center, Deb Liu on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Phyl Terry, photo 2 = Nikhyl Singhal, photo 3 = Deb Liu. Under each person, their name in small neat dark-brown hand lettering: \"Phyl Terry\", \"Nikhyl Singhal\", \"Deb Liu\". Above the three people, the title \"career\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a winding staircase up a gentle hill toward a sunrise. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/career.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "craft-review",
+      "path": "../skills/craft-review/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Katie Dill on the left, Dylan Field in the center, Stewart Butterfield on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Katie Dill, photo 2 = Dylan Field, photo 3 = Stewart Butterfield. Under each person, their name in small neat dark-brown hand lettering: \"Katie Dill\", \"Dylan Field\", \"Stewart Butterfield\". Above the three people, the title \"craft-review\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a jeweler's loupe over a polished gem. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/craft-review.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "customer-interviews",
+      "path": "../skills/customer-interviews/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Teresa Torres on the left, Bob Moesta in the center, Judd Antin on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Teresa Torres, photo 2 = Bob Moesta, photo 3 = Judd Antin. Under each person, their name in small neat dark-brown hand lettering: \"Teresa Torres\", \"Bob Moesta\", \"Judd Antin\". Above the three people, the title \"customer-interviews\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: two coffee cups facing each other with a small speech bubble between them. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/customer-interviews.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "decide",
+      "path": "../skills/decide/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Annie Duke on the left, Shreyas Doshi in the center, Shishir Mehrotra on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Annie Duke, photo 2 = Shreyas Doshi, photo 3 = Shishir Mehrotra. Under each person, their name in small neat dark-brown hand lettering: \"Annie Duke\", \"Shreyas Doshi\", \"Shishir Mehrotra\". Above the three people, the title \"decide\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a signpost at a fork in the road with two arrows. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/decide.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "eval-plan",
+      "path": "../skills/eval-plan/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Hamel Husain on the left, Shreya Shankar in the center, Sander Schulhoff on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Hamel Husain, photo 2 = Shreya Shankar, photo 3 = Sander Schulhoff. Under each person, their name in small neat dark-brown hand lettering: \"Hamel Husain\", \"Shreya Shankar\", \"Sander Schulhoff\". Above the three people, the title \"eval-plan\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a clipboard checklist under a magnifying glass, with small tick marks. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/eval-plan.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "exec-comms",
+      "path": "../skills/exec-comms/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, expressive storybook illustration style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Wes Kao on the left, Nancy Duarte in the center, Matt Abrahams on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Wes Kao, photo 2 = Nancy Duarte, photo 3 = Matt Abrahams. Under each person, their name in small neat dark-brown hand lettering: \"Wes Kao\", \"Nancy Duarte\", \"Matt Abrahams\". Above the three people, the title \"exec-comms\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a folded memo with a fountain pen and a microphone. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/exec-comms.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "experiment",
+      "path": "../skills/experiment/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, expressive storybook illustration style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Ronny Kohavi on the left, Ramesh Johari in the center, Archie Abrams on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Ronny Kohavi, photo 2 = Ramesh Johari, photo 3 = Archie Abrams. Under each person, their name in small neat dark-brown hand lettering: \"Ronny Kohavi\", \"Ramesh Johari\", \"Archie Abrams\". Above the three people, the title \"experiment\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: two flasks labeled A and B with bubbles rising. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/experiment.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "growth-model",
+      "path": "../skills/growth-model/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Elena Verna on the left, Casey Winters in the center, Lauryn Isford on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Elena Verna, photo 2 = Casey Winters, photo 3 = Lauryn Isford. Under each person, their name in small neat dark-brown hand lettering: \"Elena Verna\", \"Casey Winters\", \"Lauryn Isford\". Above the three people, the title \"growth-model\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a small plant growing in a loop-shaped pot with circular arrows. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/growth-model.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "hard-conversations",
+      "path": "../skills/hard-conversations/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Kim Scott on the left, Carole Robin in the center, Alisa Cohn on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Kim Scott, photo 2 = Carole Robin, photo 3 = Alisa Cohn. Under each person, their name in small neat dark-brown hand lettering: \"Kim Scott\", \"Carole Robin\", \"Alisa Cohn\". Above the three people, the title \"hard-conversations\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: two chairs facing each other with a small heart between them. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/hard-conversations.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "hire",
+      "path": "../skills/hire/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Adam Ward on the left, Keith Rabois in the center, Lauren Ipsen on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Adam Ward, photo 2 = Keith Rabois, photo 3 = Lauren Ipsen. Under each person, their name in small neat dark-brown hand lettering: \"Adam Ward\", \"Keith Rabois\", \"Lauren Ipsen\". Above the three people, the title \"hire\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a puzzle-piece-shaped name badge on a clipboard scorecard. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/hire.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "influence",
+      "path": "../skills/influence/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Jessica Fain on the left, Jeffrey Pfeffer in the center, Hilary Gridley on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Jessica Fain, photo 2 = Jeffrey Pfeffer, photo 3 = Hilary Gridley. Under each person, their name in small neat dark-brown hand lettering: \"Jessica Fain\", \"Jeffrey Pfeffer\", \"Hilary Gridley\". Above the three people, the title \"influence\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: concentric circles of tiny people around a central figure. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/influence.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "launch",
+      "path": "../skills/launch/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Emilie Gerber on the left, Lulu Cheng Meservey in the center, Jason Feifer on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Emilie Gerber, photo 2 = Lulu Cheng Meservey, photo 3 = Jason Feifer. Under each person, their name in small neat dark-brown hand lettering: \"Emilie Gerber\", \"Lulu Cheng Meservey\", \"Jason Feifer\". Above the three people, the title \"launch\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a paper rocket lifting off with a trail of confetti. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/launch.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "metrics",
+      "path": "../skills/metrics/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Sarah Tavel on the left, Crystal Widjaja in the center, Jessica Lachs on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Sarah Tavel, photo 2 = Crystal Widjaja, photo 3 = Jessica Lachs. Under each person, their name in small neat dark-brown hand lettering: \"Sarah Tavel\", \"Crystal Widjaja\", \"Jessica Lachs\". Above the three people, the title \"metrics\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a north star above a small branching tree of lines. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/metrics.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "pmf-check",
+      "path": "../skills/pmf-check/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Sean Ellis on the left, Todd Jackson in the center, Rahul Vohra on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Sean Ellis, photo 2 = Todd Jackson, photo 3 = Rahul Vohra. Under each person, their name in small neat dark-brown hand lettering: \"Sean Ellis\", \"Todd Jackson\", \"Rahul Vohra\". Above the three people, the title \"pmf-check\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a jigsaw puzzle piece clicking perfectly into place. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/pmf-check.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "position",
+      "path": "../skills/position/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: April Dunford on the left, Andy Raskin in the center, Arielle Jackson on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = April Dunford, photo 2 = Andy Raskin, photo 3 = Arielle Jackson. Under each person, their name in small neat dark-brown hand lettering: \"April Dunford\", \"Andy Raskin\", \"Arielle Jackson\". Above the three people, the title \"position\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a compass rose with one bold arrow pointing to a star. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/position.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "price",
+      "path": "../skills/price/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Madhavan Ramanujam on the left, Naomi Ionita in the center, Patrick Campbell on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Madhavan Ramanujam, photo 2 = Naomi Ionita, photo 3 = Patrick Campbell. Under each person, their name in small neat dark-brown hand lettering: \"Madhavan Ramanujam\", \"Naomi Ionita\", \"Patrick Campbell\". Above the three people, the title \"price\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a vintage price tag on a string next to a small balance scale. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/price.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "prioritize",
+      "path": "../skills/prioritize/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Itamar Gilad on the left, Christina Wodtke in the center, Janna Bastow on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Itamar Gilad, photo 2 = Christina Wodtke, photo 3 = Janna Bastow. Under each person, their name in small neat dark-brown hand lettering: \"Itamar Gilad\", \"Christina Wodtke\", \"Janna Bastow\". Above the three people, the title \"prioritize\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: three stacked stones balanced in a cairn, the top one marked with a star. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/prioritize.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "ship-faster",
+      "path": "../skills/ship-faster/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Farhan Thawar on the left, Nicole Forsgren in the center, Melissa Perri on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Farhan Thawar, photo 2 = Nicole Forsgren, photo 3 = Melissa Perri. Under each person, their name in small neat dark-brown hand lettering: \"Farhan Thawar\", \"Nicole Forsgren\", \"Melissa Perri\". Above the three people, the title \"ship-faster\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a paper boat with a small sail racing on wavy lines. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/ship-faster.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "spec",
+      "path": "../skills/spec/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Ryan Singer on the left, Bill Carr in the center, Lane Shackleton on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Ryan Singer, photo 2 = Bill Carr, photo 3 = Lane Shackleton. Under each person, their name in small neat dark-brown hand lettering: \"Ryan Singer\", \"Bill Carr\", \"Lane Shackleton\". Above the three people, the title \"spec\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a fat-marker sketch on a sheet of paper next to a pencil. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/spec.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "strategy",
+      "path": "../skills/strategy/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Roger Martin on the left, Richard Rumelt in the center, Hamilton Helmer on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Roger Martin, photo 2 = Richard Rumelt, photo 3 = Hamilton Helmer. Under each person, their name in small neat dark-brown hand lettering: \"Roger Martin\", \"Richard Rumelt\", \"Hamilton Helmer\". Above the three people, the title \"strategy\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a chess knight standing on a hand-drawn map with a winding path. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/strategy.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    },
+    {
+      "skill": "validate-idea",
+      "path": "../skills/validate-idea/assets/card.png",
+      "prompt": "Hand-drawn watercolor and ink illustration in a warm, Charlie Mackesy-inspired style on cream textured paper, soft earth tones with muted blues and terracotta, loose expressive ink lines and gentle watercolor washes, generous white space. Three people shown together as a team, chest-up, standing side by side and slightly overlapping, warm, friendly and confident: Mike Maples Jr. on the left, Eric Ries in the center, Jake Knapp on the right. Match each person's facial likeness, hairstyle and glasses (if any) to the attached reference photos, in order: photo 1 = Mike Maples Jr., photo 2 = Eric Ries, photo 3 = Jake Knapp. Under each person, their name in small neat dark-brown hand lettering: \"Mike Maples Jr.\", \"Eric Ries\", \"Jake Knapp\". Above the three people, the title \"validate-idea\" in large, elegant, flowing dark-brown calligraphy. At the bottom center, a small sketched watercolor icon: a lightbulb inside a small glass test tube. Portrait 3:4 aspect ratio, 1536x2048. Spell every name exactly as written. No logos, no watermarks, no other text.\nUse attached photos solely for facial reference. Ignore any source cover artwork, lettering, circles, and branding. Render exactly three distinct people and each exact label clearly beneath its corresponding person. Keep the same cream paper, watercolor palette and typography across this series.",
+      "source_prompt": "prompts/validate-idea.md",
+      "actual_size": [
+        1086,
+        1448
+      ],
+      "visual_review": "Reviewed title, guest labels and order, likeness against supplied references, watercolor style, icon and absence of source branding."
+    }
+  ],
+  "notes": "Native generated resolution is recorded per card. Original headshots are private, excluded by /images/refs/ in .gitignore, and not included in this gallery."
+}

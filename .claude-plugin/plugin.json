@@ -1,0 +1,20 @@
+{
+  "name": "awesome-pm-skills",
+  "version": "2.0.0",
+  "description": "25 product management workflows built from Lenny\u2019s Podcast: diagnose the context, choose a framework, produce a deliverable, and grade existing work.",
+  "author": {
+    "name": "Udi Menkes",
+    "url": "https://genaipm.com"
+  },
+  "homepage": "https://github.com/menkesu/awesome-pm-skills",
+  "license": "MIT",
+  "repository": "https://github.com/menkesu/awesome-pm-skills",
+  "keywords": [
+    "product-management",
+    "lennys-podcast",
+    "pricing",
+    "strategy",
+    "growth",
+    "ai"
+  ]
+}

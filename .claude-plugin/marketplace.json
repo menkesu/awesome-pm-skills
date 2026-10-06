@@ -1,0 +1,18 @@
+{
+  "name": "awesome-pm-skills",
+  "owner": {
+    "name": "Udi Menkes",
+    "url": "https://genaipm.com"
+  },
+  "plugins": [
+    {
+      "name": "awesome-pm-skills",
+      "source": "./",
+      "description": "25 product management workflows with attributed frameworks, quotes, and ready-to-use deliverables.",
+      "version": "2.0.0"
+    }
+  ],
+  "metadata": {
+    "description": "Product management workflows grounded in Lenny\u2019s Podcast, with attributed frameworks, quotes, and illustrated guest teams."
+  }
+}

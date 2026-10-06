@@ -1,208 +1,22 @@
-# Images for Awesome PM Skills
+# Illustrated skill cards
 
-This folder contains all visual assets for the Awesome PM Skills project.
+25 watercolor and ink team portraits, one for each skill. Click a card to open the full image, or its title to read the skill.
 
----
+Each skill includes its image at `assets/card.png`, so the illustration travels with the skill when copied. The exact generation prompts and native image dimensions are recorded in [generation-manifest.json](generation-manifest.json).
 
-## 📁 Folder Structure
+| | | |
+|---|---|---|
+| [**agent-workflow**](../skills/agent-workflow/SKILL.md)<br><a href="../skills/agent-workflow/assets/card.png"><img src="../skills/agent-workflow/assets/card.png" alt="agent-workflow guest team watercolor card" width="280"></a> | [**ai-product-bets**](../skills/ai-product-bets/SKILL.md)<br><a href="../skills/ai-product-bets/assets/card.png"><img src="../skills/ai-product-bets/assets/card.png" alt="ai-product-bets guest team watercolor card" width="280"></a> | [**ai-prototype**](../skills/ai-prototype/SKILL.md)<br><a href="../skills/ai-prototype/assets/card.png"><img src="../skills/ai-prototype/assets/card.png" alt="ai-prototype guest team watercolor card" width="280"></a> |
+| [**b2b-sales**](../skills/b2b-sales/SKILL.md)<br><a href="../skills/b2b-sales/assets/card.png"><img src="../skills/b2b-sales/assets/card.png" alt="b2b-sales guest team watercolor card" width="280"></a> | [**career**](../skills/career/SKILL.md)<br><a href="../skills/career/assets/card.png"><img src="../skills/career/assets/card.png" alt="career guest team watercolor card" width="280"></a> | [**craft-review**](../skills/craft-review/SKILL.md)<br><a href="../skills/craft-review/assets/card.png"><img src="../skills/craft-review/assets/card.png" alt="craft-review guest team watercolor card" width="280"></a> |
+| [**customer-interviews**](../skills/customer-interviews/SKILL.md)<br><a href="../skills/customer-interviews/assets/card.png"><img src="../skills/customer-interviews/assets/card.png" alt="customer-interviews guest team watercolor card" width="280"></a> | [**decide**](../skills/decide/SKILL.md)<br><a href="../skills/decide/assets/card.png"><img src="../skills/decide/assets/card.png" alt="decide guest team watercolor card" width="280"></a> | [**eval-plan**](../skills/eval-plan/SKILL.md)<br><a href="../skills/eval-plan/assets/card.png"><img src="../skills/eval-plan/assets/card.png" alt="eval-plan guest team watercolor card" width="280"></a> |
+| [**exec-comms**](../skills/exec-comms/SKILL.md)<br><a href="../skills/exec-comms/assets/card.png"><img src="../skills/exec-comms/assets/card.png" alt="exec-comms guest team watercolor card" width="280"></a> | [**experiment**](../skills/experiment/SKILL.md)<br><a href="../skills/experiment/assets/card.png"><img src="../skills/experiment/assets/card.png" alt="experiment guest team watercolor card" width="280"></a> | [**growth-model**](../skills/growth-model/SKILL.md)<br><a href="../skills/growth-model/assets/card.png"><img src="../skills/growth-model/assets/card.png" alt="growth-model guest team watercolor card" width="280"></a> |
+| [**hard-conversations**](../skills/hard-conversations/SKILL.md)<br><a href="../skills/hard-conversations/assets/card.png"><img src="../skills/hard-conversations/assets/card.png" alt="hard-conversations guest team watercolor card" width="280"></a> | [**hire**](../skills/hire/SKILL.md)<br><a href="../skills/hire/assets/card.png"><img src="../skills/hire/assets/card.png" alt="hire guest team watercolor card" width="280"></a> | [**influence**](../skills/influence/SKILL.md)<br><a href="../skills/influence/assets/card.png"><img src="../skills/influence/assets/card.png" alt="influence guest team watercolor card" width="280"></a> |
+| [**launch**](../skills/launch/SKILL.md)<br><a href="../skills/launch/assets/card.png"><img src="../skills/launch/assets/card.png" alt="launch guest team watercolor card" width="280"></a> | [**metrics**](../skills/metrics/SKILL.md)<br><a href="../skills/metrics/assets/card.png"><img src="../skills/metrics/assets/card.png" alt="metrics guest team watercolor card" width="280"></a> | [**pmf-check**](../skills/pmf-check/SKILL.md)<br><a href="../skills/pmf-check/assets/card.png"><img src="../skills/pmf-check/assets/card.png" alt="pmf-check guest team watercolor card" width="280"></a> |
+| [**position**](../skills/position/SKILL.md)<br><a href="../skills/position/assets/card.png"><img src="../skills/position/assets/card.png" alt="position guest team watercolor card" width="280"></a> | [**price**](../skills/price/SKILL.md)<br><a href="../skills/price/assets/card.png"><img src="../skills/price/assets/card.png" alt="price guest team watercolor card" width="280"></a> | [**prioritize**](../skills/prioritize/SKILL.md)<br><a href="../skills/prioritize/assets/card.png"><img src="../skills/prioritize/assets/card.png" alt="prioritize guest team watercolor card" width="280"></a> |
+| [**ship-faster**](../skills/ship-faster/SKILL.md)<br><a href="../skills/ship-faster/assets/card.png"><img src="../skills/ship-faster/assets/card.png" alt="ship-faster guest team watercolor card" width="280"></a> | [**spec**](../skills/spec/SKILL.md)<br><a href="../skills/spec/assets/card.png"><img src="../skills/spec/assets/card.png" alt="spec guest team watercolor card" width="280"></a> | [**strategy**](../skills/strategy/SKILL.md)<br><a href="../skills/strategy/assets/card.png"><img src="../skills/strategy/assets/card.png" alt="strategy guest team watercolor card" width="280"></a> |
+| [**validate-idea**](../skills/validate-idea/SKILL.md)<br><a href="../skills/validate-idea/assets/card.png"><img src="../skills/validate-idea/assets/card.png" alt="validate-idea guest team watercolor card" width="280"></a> |  |  |
 
-```
-images/
-├── README.md        ← This file - image generation guide
-├── skills/          ← Generated skill card images (to be added)
-│   ├── zero-to-launch.png
-│   ├── strategic-build.png
-│   ├── design-first-dev.png
-│   └── ... (24 more)
-│
-└── guests/          ← Downloaded guest photos (to be added)
-    ├── brian-chesky.jpg
-    ├── shreyas-doshi.jpg
-    ├── dylan-field.jpg
-    └── ... (21 more unique guests)
-```
 
----
+## Private references
 
-## 🎨 Skill Card Images (27 files)
-
-### File Naming Convention
-- Format: `skill-name.png`
-- Example: `zero-to-launch.png`, `strategic-build.png`
-- All lowercase, hyphen-separated
-
-### Image Specifications
-- Style: Hand-drawn, warm, Charlie Mackesy-inspired
-- Colors: Soft earth tones, muted blues and oranges
-- Background: Cream or soft white
-- Content: Guest portrait + skill name + thematic icon
-- Format: PNG (transparent or white background)
-- Resolution: High-res for web usage
-
----
-
-## 👥 Guest Photos (21 files)
-
-### File Naming Convention
-- Format: `first-last.jpg`
-- Example: `brian-chesky.jpg`, `shreyas-doshi.jpg`
-- All lowercase, hyphen-separated
-
-### Source
-- Download from: [lennyspodcast.com](https://www.lennyspodcast.com/)
-- Use episode poster images
-- Keep original quality
-
-### Guest List
-
-**Appearing in Multiple Skills (Priority):**
-1. Brian Chesky - 3 skills (zero-to-launch, design-first-dev, quality-speed)
-2. Shreyas Doshi - 4 skills (strategic-build, ship-decisions, prioritization-craft)
-3. Dylan Field - 3 skills (design-first-dev, quality-speed, zero-to-launch)
-4. April Dunford - 2 skills (positioning-craft, launch-execution)
-5. Anneka Gupta - 2 skills (workplace-navigation, strategic-pm)
-6. Kevin Weil - 2 skills (ai-product-patterns, zero-to-launch)
-
-**Appearing Once:**
-7. Marty Cagan
-8. Jeffrey Pfeffer
-9. Annie Duke
-10. Ben Horowitz
-11. Kim Scott
-12. Matt Abrahams
-13. Nancy Duarte
-14. Bob Moesta
-15. Gustaf Alstromer
-16. Ronny Kohavi
-17. Dan Shipper
-18. Geoffrey Moore
-19. Christina Wodtke
-20. David Singleton
-21. Ami Vora
-22. Lenny Rachitsky
-23. Rahul Vohra
-
----
-
-## 📝 Generation Instructions
-
-See the root-level files for complete instructions:
-- **QUICK-START-IMAGES.md** - Overview and workflow
-- **NANO-BANANA-PROMPTS.md** - All 27 ChatGPT prompts
-- **IMAGE-GENERATION-TRACKER.md** - Progress tracking
-
----
-
-## ✅ Checklist
-
-### Before Generation
-- [ ] Download all 21 guest photos
-- [ ] Save to `images/guests/` folder
-- [ ] Verify file names are correct
-
-### During Generation
-- [ ] Generate all 27 skill card images
-- [ ] Save to `images/skills/` folder
-- [ ] Use consistent naming convention
-
-### After Generation
-- [ ] Quality check all images
-- [ ] Verify 27 skill images present
-- [ ] Verify consistent style across all
-- [ ] Update README.md with image references
-- [ ] Commit to repository
-
----
-
-## 🖼️ Image Usage
-
-### In README.md
-```markdown
-## 🏗️ Builder Mode
-
-![zero-to-launch](images/skills/zero-to-launch.png)
-![strategic-build](images/skills/strategic-build.png)
-...
-```
-
-### In SKILL.md Files
-```markdown
-# Zero to Launch
-
-![Zero to Launch Skill Card](../images/skills/zero-to-launch.png)
-
-## When This Skill Activates
-...
-```
-
-### In Documentation
-Reference images with relative paths from the root:
-- `images/skills/zero-to-launch.png`
-- `images/guests/brian-chesky.jpg`
-
----
-
-## 📊 Progress Tracker
-
-**Guest Photos Downloaded:** 0/21  
-**Skill Cards Generated:** 0/27  
-**Quality Checked:** 0/27  
-**Integrated in Docs:** No
-
-Update this as you progress!
-
----
-
-## 🎨 Style Guide
-
-### Color Palette
-- Warm earth tones (browns, tans, beiges)
-- Soft blues (sky, powder blue)
-- Gentle oranges (coral, peach)
-- Clean whites and creams for background
-
-### Typography
-- Hand-lettered, elegant style
-- Clear and legible
-- Appropriate size relative to card
-
-### Icons
-- Small and subtle
-- Thematically relevant to skill
-- Simple, not overly detailed
-- Hand-drawn aesthetic matching overall style
-
-### Guest Portraits
-- Friendly and approachable
-- Not corporate or stiff
-- Recognizable
-- Warm expression
-
----
-
-## 🔗 Attribution
-
-**All guest images are from Lenny's Podcast episodes:**
-- Host: [Lenny Rachitsky](https://twitter.com/lennysan)
-- Podcast: [lennyspodcast.com](https://www.lennyspodcast.com/)
-- Transcripts: [ChatPRD/lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts)
-
-**Illustration style inspired by:**
-- Charlie Mackesy's "The Boy, the Mole, the Fox and the Horse"
-- Ondrej Machart's [TinyStakeholders.com](https://tinystakeholders.com)
-
----
-
-## 📄 License
-
-Images are created for the Awesome PM Skills project and should be used with appropriate attribution to:
-1. Lenny Rachitsky and the podcast guests
-2. The Awesome PM Skills project by Udi Menkes
-
----
-
-**Created:** January 28, 2026  
-**Last Updated:** [Update as you add images]
-
-🎨 **Happy creating!**
-
+`refs/` is reserved for local, private likeness reference photos and source notes; it is not included in a clone. It is excluded from Git by the root `.gitignore`; do not force-add or publish it.

@@ -46,3 +46,16 @@ yarn-error.log*
 .cache/
 *.cache
 
+# Private likeness references and local research inputs.
+/images/refs/
+/digests/
+/HEADSHOTS.md
+/SKILL_AUTHORING.md
+/transcripts/
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
+.venv/

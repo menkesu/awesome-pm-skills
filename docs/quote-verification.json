@@ -1,0 +1,10 @@
+{
+  "transcript_files": 341,
+  "markdown_files": 75,
+  "quotes_checked": 978,
+  "quotes_matched": 978,
+  "failures": [],
+  "scope": "Normalized text matching only; attribution and timestamps require source review.",
+  "checked_on": "2026-10-06",
+  "collection": "25 core v2 skills; optional extras excluded"
+}
